@@ -1,0 +1,194 @@
+body {
+  background-color: darkgrey;
+}
+
+#studentForm {
+  display: none;
+  background-color: darkgrey;
+  padding-bottom: 10px;
+}
+
+.form-floating {
+  background-color: darkgrey;
+}
+
+.card1 {
+  background-color: darkgrey;
+  padding-bottom: 10px;
+}
+
+.card-header1 {
+  text-align: center; 
+  font-size: 50px; 
+  border-bottom: 4px solid black;
+  background-color: darkgrey;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-title1 {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: darkgrey;
+}
+
+.card-text1 {
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color:  darkgrey;
+}
+
+#showFormButton {
+  display: block;
+  margin: auto;
+  width: 150px;
+  border-radius: 0%;
+  background-color: black;
+  border: 2px solid black;
+}
+
+#form-submit {
+  display: block;
+  margin: auto;
+  width: 100px;
+  border-radius: 0%;
+  background-color: black;
+  border: 2px solid black;
+}
+
+#rav-btn {
+  background-image: linear-gradient(to bottom right, navy, rgb(165, 87, 42));
+  border: 4px solid black;
+  border-radius: 0%;
+}
+
+#sly-btn {
+  background-image: linear-gradient(to bottom right, silver, green);
+  border: 4px solid black;
+  border-radius: 0%;
+}
+
+#gryff-btn {
+  background-image: linear-gradient(to bottom right, rgba(255, 0, 0, 0.925), rgba(255, 217, 0, 0.795));
+  border: 4px solid black;
+  border-radius: 0%;
+}
+
+#huff-btn {
+  background-image: linear-gradient(to bottom right, yellow, black);
+  border: 4px solid black;
+  border-radius: 0%;
+}
+
+#all-houses-btn {
+  background-image: linear-gradient(to bottom right, beige, darkgrey);
+  border: 4px solid black;
+  border-radius: 0%;
+}
+
+
+
+.btn-container {
+  display: flex;
+  justify-content: row;
+  justify-content: center;
+}
+
+#studentApp {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 0%;
+  
+}
+.header-name {
+  font-size: 30px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid grey;
+  width: 100%;
+  
+}
+
+.card-title {
+  font-size: 20px;
+}
+
+.card-text {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.studentCard {
+  display: block;
+  margin: auto;
+}
+
+#darkArmyApp {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.dark-btn{
+  display: block;
+  border-radius: 0%;
+}
+
+.dark-card {
+  border: 2px solid firebrick;
+  text-align: center;
+  border-radius: 2%;
+  background-color: grey;
+  height: 230px;
+  margin-bottom: 20px;
+}
+
+.drk-welcome {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+  margin-bottom: 18px;
+}
+
+.dark-name-title {
+  font-size: 20px;
+  border-bottom: 1px solid darkgrey;
+}
+
+.dark-name {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.dark-title {
+  margin-bottom: 5px;
+  border-bottom: 1px solid darkgrey;
+}
+
+.dark-text {
+  margin-bottom: 5px;
+}
+
+.expel-btn {
+  display: block;
+  margin: auto;
+  text-align: center;
+  border-radius: 0%;
+}
+
+.header-name {
+  text-align: center;
+}

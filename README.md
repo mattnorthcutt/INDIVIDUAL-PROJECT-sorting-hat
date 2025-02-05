@@ -1,3 +1,7 @@
+
+
+
+
 # Sorting Hat
 
 ## Goals
@@ -54,4 +58,3 @@ Think of a way you can expel students without just hiding those divs on the page
 ## Optional Bonus
 - House Colors: The color of the student's card changes depending on which house they were sorted.
 - Card Sorting/Ordering: Sort the student cards by some criteria (i.e. alphabetically by name, by house)
-
