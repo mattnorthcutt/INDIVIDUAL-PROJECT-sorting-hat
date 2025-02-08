@@ -1,4 +1,13 @@
-
+- The name of the project is the Sorting Hat.
+- The overview of this project is that it is a sorting application that lets you put in your own name and become a part of the 4 houses of hogwarts. It assigns you a random house from the 4 houses and you can start your journey from there. Be careful, you can also be expelled and put into the Moldy Voldy Army
+- No link to my wireframes/prototype
+- Link to my deploy: https://app.netlify.com/sites/matt-sorting-hat/overview
+- https://github.com/mattnorthcutt/INDIVIDUAL-PROJECT-sorting-hat
+- The user for my application is a Hogwarts lover and a Hairy Potter die hard fan! He wants to sort himself along with fan favorites and get into one of the four houses of Hogwarts! 
+- List of Features: I have captions that welcome you and tell you that its The Sorting Hat. It has a message explaining whats happening. The webpage has a form so you can input your name and sort yourself along other students! It puts all the students names on cards with their houses and your randomly assigned house you got after you put your name on the form! There are buttons to sort through all the certain houses you want to look at. The cards have your name and your randomly assigned house. The cards also have an expel button that when you press puts that student into the Moldy Voldy Army. The Moldy Voldy Army is its own card so it transfers all the information of that student you expelled onto that card. The card has a welcome message, welcoming you to the Moldy Voldy Army! It also has your name and your house. 
+- Screenshot of Project: ![alt text](image.png)
+- Contributor links to GH: https://github.com/mattnorthcutt
+- https://www.loom.com/share/16f07016ff90474180147783a3e1010d?sid=1fb8a6c4-e2e5-45a4-ad28-fdc863d42bba
 
 
 
