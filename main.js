@@ -131,7 +131,7 @@ const moldyVoldyStudentsDom = (arr) => {
   studentApp.addEventListener("click", (e) => {
     if (e.target.id.includes("getOut")) {
       const [, id] = e.target.id.split("--")
-      const index = students.findIndex((e) => e.id ===Number (id))
+      const index = students.findIndex((e) => e.id === Number (id))
       const moldyVoldyStudent = students[index]
       students.splice(index, 1)
       moldyVoldyArmy.push(moldyVoldyStudent)
